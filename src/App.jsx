@@ -16,7 +16,7 @@ const App = () => {
       errorElement: <ErrorPage />,
       children: [
         {
-          path: "/",
+          path: "/react-country",
           element: <Home />,
         },
         {
