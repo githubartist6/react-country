@@ -48,7 +48,7 @@ export const Footers = () => {
                         <div className="footer-menu">
                             <ul>
                                 <li>
-                                    <NavLink to="/react-country">Home</NavLink>
+                                    <NavLink to="/">Home</NavLink>
                                 </li>
 
                                 <li>

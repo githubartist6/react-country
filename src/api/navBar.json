@@ -1,7 +1,7 @@
 [
     {
         "name": "Home",
-        "path": "/react-country"
+        "path": "/"
     },
     {
         "name": "About",
