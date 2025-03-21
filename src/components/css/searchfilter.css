@@ -1,0 +1,42 @@
+.section-searchFilter {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 15px;
+    margin-top: -50px;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .section-searchFilter input {
+    width: 70%;
+    padding: 10px;
+    border-radius: 5px;
+    outline: none;
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  
+  @media (max-width: 600px) {
+    .section-searchFilter {
+      grid-template-columns: 1fr;
+      gap: 10px;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+    }
+  
+    .section-searchFilter div {
+      display: flex;
+      justify-content: center;
+      width: 100%;
+    }
+
+    .section-searchFilter button {
+      width: 80%;
+    }
+  
+    .section-searchFilter input,
+    .select-section {
+      width: 80%;
+    }
+  }

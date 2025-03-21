@@ -1,0 +1,20 @@
+[
+    {
+      "id":1,
+      "icon": "MdPlace",
+      "title": "Find us",
+      "details": "Sakatpur, Darbhanga, Bihar"
+    },
+    {
+      "id":2,
+      "icon": "IoCallSharp",
+      "title": "Call us",
+      "details": "+91 7667363767"
+    },
+    {
+      "id":3,
+      "icon": "TbMailPlus",
+      "title": "Mail us",
+      "details": "jkcoder01@gmail.com"
+    }
+  ]
